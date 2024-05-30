@@ -1,0 +1,5 @@
+1, tipos de algoritmos
+2, Complejidad en memoria
+3, Complejidad en tiempo
+6, Definición Orden de
+8, Demostraciones
